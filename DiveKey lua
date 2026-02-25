@@ -14,7 +14,7 @@ local function createHorizontalKeyGUI()
 
     local CONFIG = {
         CopyLink = "https://link-hub.net/3394206/YB6VMslp3aDp",
-        MainScriptUrl = "https://raw.githubusercontent.com/FayyMeng/Star-Fishing/refs/heads/main/Star%20Fishing%20lua",
+        MainScriptUrl = "https://raw.githubusercontent.com/FayyMeng/Dive-Down/refs/heads/main/Dive%20Down%20lua",
     }
     
     local VALID_KEY = getValidKey()
