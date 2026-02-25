@@ -176,7 +176,7 @@ local function createHorizontalKeyGUI()
     UserName.Size = UDim2.new(1, 0, 0, isMobile and 30 or 35)
     UserName.Position = UDim2.new(0, 0, 0, isMobile and 20 or 25)
     UserName.BackgroundTransparency = 1
-    UserName.Text = "Star Fishing"
+    UserName.Text = "Dive Down"
     UserName.TextColor3 = Color3.fromRGB(30, 40, 60)
     UserName.Font = Enum.Font.GothamBold
     UserName.TextSize = isMobile and 20 or 24
