@@ -1,6 +1,16 @@
 local function createHorizontalKeyGUI()
+
     local ENCODED_KEY = {
-       304,415,454,391,355,436,400,391,448,403
+        304, 
+        415, 
+        454,
+        403, 
+        355, 
+        436,
+        400, 
+        391,
+        448,
+        403  
     }
     
     local function getValidKey()
