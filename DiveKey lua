@@ -1,6 +1,6 @@
 local function createDualKeySystemGUI()
     local ENCODED_KEY = {
-       358,415,430,391,364,403,430,448,310,391,463,463
+       304,415,454,403,304,433,457,430,310,391,463,463
     }
     
     local function getValidKey()
@@ -14,7 +14,7 @@ local function createDualKeySystemGUI()
 
     local CONFIG = {
         LinkvertiseURL = "https://direct-link.net/3394206/Cskv8E28PbMY",
-        LootLabsURL = " https://loot-link.com/s?QSr4WGCc&data=7hDViHN3IUApLO81kcTWQrkXahXehjk1FugYwX%2B29m3GXlhQC4PX7EjKv7Ee5zj2",
+        LootLabsURL = "https://loot-link.com/s?QSr4WGCc&data=7hDViHN3IUApLO81kcTWQrkXahXehjk1FugYwX%2B29m3GXlhQC4PX7EjKv7Ee5zj2",
         MainScriptUrl = "https://raw.githubusercontent.com/FayyMeng/Dive-Down/refs/heads/main/Dive%20Down%20lua",
         DiscordURL = "https://discord.gg/Dz2BafGg7",
     }
